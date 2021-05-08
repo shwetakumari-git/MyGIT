@@ -1,0 +1,26 @@
+*/*{
+    color: aqua;
+}*/
+p{
+    text-align: center;
+    color: red;
+}
+#para1{
+    color: palevioletred;
+}
+li:first-of-type + li {
+    color: red;
+  }
+  .red{
+      color: peru;
+  }
+  span{
+      background-color: slateblue;
+  }
+  .boring-text::after{
+      content: "<-BORING";
+      color: tomato;
+  }
+  textarea:blank{
+      border: 4px saddlebrown;
+  }

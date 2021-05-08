@@ -1,0 +1,17 @@
+*{
+  font-style: italic;
+  
+   text-align: center;
+   color:black;
+   font-size: larger;
+
+}
+body{
+    background-image: url("wedding.jpg");
+
+
+}
+.wedding-text{
+    text-align: center;
+    color: black;
+}
